@@ -4,7 +4,10 @@ p {
 body{ 
     background: #BDB76B;
 }
-h1{style="text-align: center; "
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(63, 3, 43)
 }
 #missao{ style="font-size: 20px;
 }
