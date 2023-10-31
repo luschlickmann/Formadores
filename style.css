@@ -3,9 +3,7 @@ body{
     background: #BDB76B;
 }
 h1 {
-    text-align: center;
-    font-size: 30px;
-    color: white(63, 3, 43)
+    style="text-align: center;"
 }
 
 p {
